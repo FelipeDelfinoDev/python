@@ -1,3 +1,3 @@
 # python
-$ ola, mundo!
+ola, mundo!
 repositorio para python
